@@ -1,0 +1,16 @@
+ros-kinetic-marker-rviz-plugin (0.0.2-0xenial) xenial; urgency=high
+
+  * Lable color change able.
+  * Implemented scale and marker size property for all marker visual types.
+  * Contributors: Markus Bader, Lukas Pfeifhofer
+
+ -- Markus Bader <markus.bader@tuwien.ac.at>  Sun, 06 Nov 2016 23:00:00 -0000
+
+ros-kinetic-marker-rviz-plugin (0.0.1-0xenial) xenial; urgency=high
+
+  * Initial commit
+  * Contributors: Markus Bader, Lukas Pfeifhofer, Markus Macsek
+
+ -- Markus Macsek <markus.macsek@student.tuwien.ac.at>  Thu, 29 Sep 2016 22:00:00 -0000
+
+
