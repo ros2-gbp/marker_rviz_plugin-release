@@ -66,6 +66,8 @@ namespace marker_rviz_plugin {
         void setShowMarker(bool showMarker);
 
         void setShowLabel(bool showLabel);
+	
+        void setColorLabel(Ogre::ColourValue color);
 
         virtual void setColor(float r, float g, float b, float a);
 
@@ -85,6 +87,7 @@ namespace marker_rviz_plugin {
         static MarkerResources static_resources_; // load static resources once for this class
 
         Ogre::SceneNode *scene_node_;
+        Ogre::SceneNode *markerNode_;
 
         Ogre::Entity *markerEntity_;
         rviz::Axes *axes_;
