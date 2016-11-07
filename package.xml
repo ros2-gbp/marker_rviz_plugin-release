@@ -1,9 +1,14 @@
 <package>
   <name>marker_rviz_plugin</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>The marker_rviz_plugin package contains RViz plugins to visualize messages of the marker_msgs package using RViz.</description>
-  <maintainer email="markus.macsek@student.tuwien.ac.at">Markus Macsek</maintainer>
-  <license>TODO</license>
+  <maintainer email="markus.bader@tuwien.ac.at">Markus Bader</maintainer>
+  <license>BSD</license>
+
+  <url type="website">http://wiki.ros.org/marker_rviz_plugin</url>
+  <author>Markus Bader</author>
+  <author>Lukas Pfeifhofer</author>
+  <author>Markus Macsek</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
